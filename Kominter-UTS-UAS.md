@@ -13,7 +13,7 @@ nav_order: 2
 
 ---
 
-## 📊 Dokumen Google Sheets
+## 📊 Self-Assesment dan Peer-to-Peer
 
 ### 🔗 UTS
 👉 [Buka Google Sheets](https://docs.google.com/spreadsheets/d/11fnxRKd8_3aTm7-MCHEoTqLfLkkK_GFzNUFyhkB_mi4/edit?usp=sharing)
