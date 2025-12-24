@@ -11,8 +11,8 @@ Ujian Akhir Semester (UAS) mata kuliah
 **Interpersonal and Public Communication (II2100)**.
 
 ## 📄 Dokumen UTS
-👉 [Klik untuk membuka PDF UTS](uts-kominter.pdf)
+👉 [Klik untuk membuka PDF UTS](https://rianinsani.github.io/11422020_Rian%20Albar%20Insani_UTS%20Kominter.pdf)
 
 ## 📄 Dokumen UAS
-👉 [Klik untuk membuka PDF UAS](uas-kominter.pdf)
+👉 [Klik untuk membuka PDF UAS](https://rianinsani.github.io/11422020_Rian%20Albar%20Insani_UAS%20Kominter.pdf)
 
