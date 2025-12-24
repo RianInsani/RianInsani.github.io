@@ -1,5 +1,11 @@
 title: "My Portfolio"
-theme: just-the-docs
+
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+
 search_enabled: true
+
 toc:
   enabled: true
