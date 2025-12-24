@@ -1,6 +1,8 @@
 ---
 title: UTS & UAS Komunikasi Interpersonal
+nav_order: 2
 ---
+
 
 # UTS & UAS Komunikasi Interpersonal
 
